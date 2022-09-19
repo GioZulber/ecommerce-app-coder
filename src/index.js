@@ -22,7 +22,7 @@ class Server {
 		this.app.use(express.static(__dirname + '/public'));
 	}
 	middlewares() {
-		this.app.use(cors());
+		this.app.use(cors('*'));
 	}
 	routes() {
 		serverRoutes(this.app);
