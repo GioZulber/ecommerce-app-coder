@@ -7,7 +7,8 @@
 ## Setup
 
 - Levantar la API con el comando `npm start` o `npm run dev`
-- Link de vercel: `[Ecommerce app-coder](https://ecommerce-app-coder.vercel.app/ "Ecommerce app-coder")`
+- Link de vercel: [Ecommerce app-coder](https://ecommerce-app-coder.vercel.app/ "Ecommerce app-coder")
+
 
 ## Frontend
 - El repositorio de la app: [Frontend-app-coder](https://github.com/GioZulber/frontend-api-coder "Frontend-app-coder")
